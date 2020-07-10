@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ToDo CodePath</string>
+    <string name="app_name">To Do Day</string>
+    <string name="hi_my_name_is_sanskar">Hi My name is Sanskar</string>
+    <string name="yo_boy">Yo Boy</string>
+    <string name="to_do_day">To-Do-Day</string>
+    <string name="todo">TODO</string>
 </resources>
